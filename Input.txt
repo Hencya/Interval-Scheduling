@@ -1,0 +1,10 @@
+mcd 4 7
+percetakan 0 6
+sendal 8 10
+pizza 3 5
+podomoro 5 9
+kfc 3 8
+fotocopy 6 10
+perkantoran 1 4
+sepatu 8 11
+admin 0 1
